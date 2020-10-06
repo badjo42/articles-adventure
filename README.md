@@ -1,2 +1,2 @@
-# articles-adventure
-Code examples I describe in detail on my medium account @joelrepond_25263
+# Code I wrote for my articles on Medium
+ https://medium.com/@joelrepond_25263
